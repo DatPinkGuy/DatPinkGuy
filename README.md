@@ -8,7 +8,7 @@ You can see some of my current bigger projects by following links bellow:</br>
 Or you can check **Repositories** for more.
 </br>
 </br>
-Most of my projects have been done using Unity Game Engine and C# language.
+Most of my projects have been done using Unity Game Engine and C# language.</br>
 Currently working as an Intern Programmer for Aqua BluGames, where i get to experience Unreal Engine 5, C++ and Blueprints.
 
 
